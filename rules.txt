@@ -1,0 +1,24 @@
+Rules of ArtemisLite
+
+ArtemisLite is a board game for 2 to 4 players.
+The board consists of a start Square, a blank square and 10 projects squares grouped in 4 programs.
+Each players has a token and a certain amount of funding available to spend on project bids, developments and fines.
+
+The goal of the game is to develop all the Artemis projects in order to have a successful launch of the Artemis Missions.
+
+In order to do this, players will can bid for projects and then develop those projects through development phases.
+But please note that a player can only develop a project if they have successfully bid for all the projects within the same program.
+
+Each player's turn consists in 2 steps:
+
+1. Move the token
+ 2 dice roll and the token is moved by the total amount given by the dice.
+ A $20M funding is awarded every time a player's token passes by the start square.
+ If the token lands on a project square that is available, the player can choose to bid for that project. If the player chose not to bid, the project is offered to the other players.
+ If the token lands on a project square owned by another player, a fine may have to be paid, at the discretion of the owner of the square.
+ If the token lands on a project square owned by the player, or on the blank square, nothing happens.
+
+2. Develop projects
+ The player can choose to develop any of the project that the player has successfully bid on, if:
+ - the player owns all the projects within the program the project to be developed belongs to
+ - the player has sufficient funding to develop the project

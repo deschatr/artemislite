@@ -1,0 +1,3 @@
+Welcome to ArtemisLite, a game inspired by the NASA Artemis missions.
+
+With Artemis missions, NASA will land the first woman and first person of color on the Moon, using innovative technologies to explore more of the lunar surface than ever before. We will collaborate with commercial and international partners and establish the first long-term presence on the Moon. Then, we will use what we learn on and around the Moon to take the next giant leap: sending the first astronauts to Mars.
